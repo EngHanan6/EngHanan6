@@ -10,7 +10,7 @@ Enthusiastic and detail-oriented individual with a passion for innovation, entre
 ## 🏆 Achievements
 🥇 **First Place** in the University Web Design Competition — crafting standout websites with modern design standards.
 
-🥈 **2nd Place** – GP1 Basira Smart Cane to help visually impaired individuals | Scientific Forum, Innovation and Invention Track, College Level.
+🥈 **2nd Place**  GP1 Basira Smart Cane to help visually impaired individuals | Scientific Forum, Innovation and Invention Track, College Level.
 
 🥉 **Third Place** in the “Code In” Competition — building innovative software solutions that solve real problems.
 
