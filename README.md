@@ -2,6 +2,14 @@
 Enthusiastic and detail-oriented individual with a passion for innovation, entrepreneurship, and consulting. Experienced in creating BIRT reports and designing user interfaces using Figma during an internship as an IBM Maximo Consultant. My academic foundation in software development is complemented by extensive involvement in university clubs and hands-on project experience. Skilled in Python, Java, PHP, <br>and MySQL database management. Strong communication and teamwork skills gained through active participation in university clubs. Eager to apply analytical thinking and leadership abilities to develop practical solutions in technology-driven environments I am enthusiastic about the intersection of design and technology, and I actively contribute to projects that require both technical expertise and a keen eye for user-centric design. I am eager to apply my skills to real-world challenges and to contribute to dynamic, forward-thinking teams.
 
 
+Achievements
+🥇 First Place in the University Web Design Competition — crafting standout websites with modern design standards.
+
+🥈 2nd Place – GP1 Basira Smart Cane to help visually impaired individuals | Scientific Forum, Innovation and Invention Track, College Level.
+
+🥉 Third Place in the “Code In” Competition — building innovative software solutions that solve real problems.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanan-aboalkair-3390bb2a6/) 
 [![Behance](https://img.shields.io/badge/Behance-0057ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/raghadaboalkair)
